@@ -1,0 +1,3 @@
+Download Link for Anime Dataset
+
+https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews
